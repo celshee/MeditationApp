@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="titleTextView" type="id" />
+    <item name="contentTextView" type="id" />
+    <item name="contentEditText" type="id" />
+    <item name="titleEditText" type="id" />
+    <item name="notesContainer" type="id" />
+    <item name="saveButton" type="id" />
+</resources>
